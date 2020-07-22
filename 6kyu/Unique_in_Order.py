@@ -1,4 +1,4 @@
-def unique_in_order(iterable):
+def unique_in_order(iterable): 
     unique_list = []
     prev = None
     for i in iterable:
