@@ -1,0 +1,1 @@
+greet = lambda: "hello world!"
